@@ -81,7 +81,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mirdanish6594/mirdanish6594/output/snake.svg" alt="Snake animation" />
-
-###
