@@ -10,7 +10,7 @@ I create user-friendly websites with a touch of online magic, diving into AI/ML.
 * ✉️  You can contact me at [danishmir\_2022bche034@nitsri.ac.in](mailto:danishmir_2022bche034@nitsri.ac.in)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on AI/ML
-* ⚡  Fun fact I don't make mistakes, I create unintentional masterpieces of improvisation.
+* ⚡  Fun fact I don't make mistakes, I create unintentional masterpieces of improvisation;)
 
 ### Skills
 
