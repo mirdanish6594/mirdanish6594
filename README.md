@@ -3,10 +3,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danish Mir
 ==================================================================================================================================
 
-Web Developer and Designer
+Data Analyst, Developer and Designer
 --------------------------
 
-I create user-friendly websites with a touch of online magic, diving into AI/ML. Designing intuitive interfaces and graphics is my passion. Beyond coding, I'm into books and tunes. Connect with me if you resonate!
+Crafting meaningful digital experiences and data-driven solutions with passion and innovation. Beyond coding, I'm into books and tunes. Connect with me if you resonate!
 
 * 🌍  I'm based in Kashmir
 * ✉️  You can contact me at [danishmir\_2022bche034@nitsri.ac.in](mailto:danishmir_2022bche034@nitsri.ac.in)
