@@ -3,16 +3,24 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danish Mir
 ==================================================================================================================================
 
-Data Analyst, Developer and Designer
+🎓 Data Science | Development | Graphic Design
+📍 From Kashmir, India | Building at the crossroads of tech and creativity
 --------------------------
 
-Crafting meaningful digital experiences and data-driven solutions with passion and innovation. Beyond coding, I'm into books and tunes. Connect with me if you resonate!
+## 👨‍💻 About Me
+I’m Danish Mir, a passionate and versatile tech enthusiast with a flair for both logic and aesthetics. Alongside my academic journey, I’ve explored and developed impactful projects across:
 
-* 🌍  I'm based in Kashmir
-* ✉️  You can contact me at [danishmir\_2022bche034@nitsri.ac.in](mailto:danishmir_2022bche034@nitsri.ac.in)
-* 🧠  I'm learning MERN Stack
-* 🤝  I'm open to collaborating on AI/ML
-* ⚡  Fun fact I don't make mistakes, I create unintentional masterpieces of improvisation;)
+* 🤖 Machine Learning & AI – Building intelligent solutions and models
+* 🌐 Full-Stack Development – Creating responsive, user-centric web applications
+* 🎨 Graphic & UI/UX Design – Designing meaningful visual experiences
+* 🧪 Creative Technology Projects – Fusing code, creativity, and innovation
+
+I'm driven by curiosity, and I’m always eager to learn, experiment, and collaborate on ideas that matter.
+
+## 🌍 Let’s Connect
+* 📫 Email: [mirdanish6594@gmail.com]
+* 🔗 LinkedIn: [https://linkedin.com/in/danish-mir-767792202]
+* 🌐 Portfolio: [https://mirdanish.me]
 
 ### Skills
 
