@@ -1,7 +1,7 @@
 ![img](https://github.com/mirdanish6594/mirdanish6594/blob/main/hello.jpeg)
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danish Mir
-🎓 Data Science | Development | Graphic Design 
+🎓 Data Science | Development | Graphic Design     
 📍 From Kashmir, India | Building at the crossroads of tech and creativity
 
 ## 👨‍💻 About Me
