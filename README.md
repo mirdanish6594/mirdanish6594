@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 
 🎓 Data Science | Development | Graphic Design
+
 📍 From Kashmir, India | Building at the crossroads of tech and creativity
 --------------------------
 
