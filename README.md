@@ -18,6 +18,12 @@ I’m a **passionate tech enthusiast** who loves blending **logic and creativity
 
 ---
 
+## Contact Me:
+- **Portfolio:** [(https://mirdanish.me)]
+- **Email:** [(mirdanish6594@gmail.com)]
+
+---
+
 ## 🛠 Tech Skills
 
 ### **Frontend**
