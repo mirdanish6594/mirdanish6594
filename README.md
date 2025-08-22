@@ -90,20 +90,5 @@ I’m a **passionate tech enthusiast** who loves blending **logic and creativity
 
 ---
 
-### 📈 Extra GitHub Insights
-<p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mirdanish6594&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mirdanish6594&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff&show_owner=true&line_height=35&hide_title=false&count_private=true&include_all_commits=true&custom_title=Total%20Commits" alt="Total Commits"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mirdanish6594&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff&show_owner=true&line_height=35&hide_title=false&count_private=true&custom_title=Total%20Issues" alt="Total Issues"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mirdanish6594&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff&show_owner=true&line_height=35&hide_title=false&count_private=true&custom_title=Total%20Pull%20Requests" alt="Total PRs"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mirdanish6594&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff&show_owner=true&line_height=35&hide_title=false&count_private=true&custom_title=Followers" alt="Followers"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mirdanish6594&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff&show_owner=true&line_height=35&hide_title=false&count_private=true&custom_title=Following" alt="Following"/>
-</p>
-
----
-
 ## ✨ Fun Fact
 > "I code, design, and experiment – and yes, I sometimes debug my own thoughts too 😅"
